@@ -7,6 +7,6 @@ Template.postsList.helpers({
 // Template.postsList.onCreated(()=>{
 	// Template.instance().subscribe('posts');
 // });
-Template.postsList.onCreated(function postsListCreated(){
-	this.subscribe('posts');
-});
+// Template.postsList.onCreated(function postsListCreated(){
+	// this.subscribe('posts');
+// });
